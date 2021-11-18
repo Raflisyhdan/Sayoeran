@@ -10827,9 +10827,17 @@ body {
   margin-top: 100px;
 }
 
+.store-trend-categories {
+  padding-top: 16px;
+}
+
+.store-new-products {
+  padding-top: 16px;
+}
+
 footer {
   border-top: 1px solid #e4e4e4;
-  margin-top: 150px;
+  margin-top: 144px;
 }
 
 footer p {
@@ -11297,6 +11305,10 @@ footer p {
   color: #979797;
 }
 
+.page-content {
+  padding-top: 0px;
+}
+
 .component-categories {
   background: #f4f4f4;
   border-radius: 8px;
@@ -11321,7 +11333,7 @@ footer p {
 }
 
 .component-products {
-  margin-bottom: 20px;
+  margin-bottom: 32px;
 }
 
 .component-products:hover {
